@@ -1,17 +1,64 @@
-<div style="text-align:center;">
+<!-- ========================= -->
+<!-- 🔷 CLEAN TECH LOGO       -->
+<!-- ========================= -->
 
-# 🌟 Colette Nole  
-### Creative Technologist • Computer Science Major  
+<div style="text-align:center; margin-top:30px;">
+  <div style="
+      font-size:42px;
+      font-weight:800;
+      letter-spacing:2px;
+      color:#4da6ff;
+      font-family: 'Segoe UI', sans-serif;">
+    CN
+  </div>
+  <div style="
+      font-size:16px;
+      color:#6f8fa6;
+      margin-top:-5px;
+      letter-spacing:2px;">
+    COLETTE NOLE
+  </div>
+</div>
 
-Welcome to my ePortfolio — a space where creativity meets code.  
-Scroll down to explore my work, ideas, and capstone journey.
+---
+
+<!-- ========================= -->
+<!-- 🔷 MINIMAL NAV BAR       -->
+<!-- ========================= -->
+
+<div style="
+  display:flex;
+  justify-content:center;
+  gap:35px;
+  padding:12px 0;
+  background:#f5f7fa;
+  border-radius:6px;
+  margin-bottom:30px;
+  border:1px solid #d9e2ec;">
+  
+  <a href="#about" style="color:#4a6fa5; text-decoration:none; font-weight:600;">About</a>
+  <a href="#capstone" style="color:#4a6fa5; text-decoration:none; font-weight:600;">Capstone</a>
+  <a href="#portfolio" style="color:#4a6fa5; text-decoration:none; font-weight:600;">ePortfolio</a>
+  <a href="#skills" style="color:#4a6fa5; text-decoration:none; font-weight:600;">Skills</a>
+  <a href="#contact" style="color:#4a6fa5; text-decoration:none; font-weight:600;">Contact</a>
 
 </div>
 
 ---
 
-## 🎬 Featured Video  
 <div style="text-align:center;">
+
+# Colette Nole  
+### Computer Science • Future‑Focused • Creative Thinker  
+
+Welcome to my ePortfolio — a clean, modern space where technology and creativity meet.
+
+</div>
+
+---
+
+# 🎬 Featured Video  
+<div style="text-align:center; margin-top:20px;">
   <iframe width="560" height="315"
     src="https://www.youtube.com/embed/xOX8SAS15zk"
     frameborder="0"
@@ -21,53 +68,61 @@ Scroll down to explore my work, ideas, and capstone journey.
 
 ---
 
-## 🎨 About Me  
-Hi! I'm **Colette Nole**, a Computer Science student with a passion for building things that blend creativity and technology.  
-I enjoy exploring new ideas, designing unique digital experiences, and solving problems with code.
+# <a name="about"></a> 🧭 About Me  
+I’m **Colette Nole**, a Computer Science major who enjoys building thoughtful, future‑focused digital experiences.
 
-This ePortfolio highlights my journey through CS, including my **CS499 Capstone** and other creative work.
+My work blends:
+- clean design  
+- logical structure  
+- creative problem‑solving  
+
+This portfolio highlights my journey through CS and my **CS499 Capstone**.
 
 ---
 
-## 🚀 CS499 Capstone  
-<div style="border: 2px solid #f0a; padding: 15px; border-radius: 12px; background:#fff0fa;">
+# <a name="capstone"></a> 🚀 CS499 Capstone  
+<div style="
+  border: 1px solid #c7d4e2;
+  padding: 20px;
+  border-radius: 10px;
+  background:#f8fafc;">
 
-### **✨ Project Title (You can rename this!)**  
-A creative and technical deep‑dive into my final capstone experience.  
-This project represents the culmination of my Computer Science studies — combining design, logic, and innovation.
+## Capstone Project: *Your Title Here*  
+A polished, professional, and technically challenging project representing the culmination of my CS studies.
 
-**Highlights:**  
-- 🧠 Problem‑solving & system design  
-- 🛠 Implementation using CS principles  
-- 🎨 Creative presentation & documentation  
-- 🚀 Real‑world application  
+### Key Focus Areas  
+- System architecture  
+- Implementation  
+- UI/UX considerations  
+- Documentation  
+- Problem‑solving  
 
 </div>
 
 ---
 
-## 🧩 ePortfolio Work  
-Here are some of the pieces that reflect my growth, creativity, and technical skills.
+# <a name="portfolio"></a> 🧩 ePortfolio Work  
 
-### **📌 Reflection & Learning**
-A collection of insights, challenges, and breakthroughs from my CS journey.
+## 📘 Reflection & Growth  
+Insights and lessons learned throughout my CS journey.
 
-### **📌 Technical Work**
-Assignments, code samples, and projects that showcase my development skills.
+## 💻 Technical Work  
+Assignments, code samples, and engineering‑focused projects.
 
-### **📌 Creative Work**
-Designs, visuals, and multimedia elements that express my creative side.
+## 🎨 Creative Work  
+Visuals, multimedia, and design‑driven pieces.
 
 ---
 
-## 🛠 Skills  
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+# <a name="skills"></a> 🛠 Skills  
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
 
-<span style="background:#ffe680; padding:8px 12px; border-radius:8px;">💻 Programming</span>
-<span style="background:#ffd1dc; padding:8px 12px; border-radius:8px;">🎨 Creative Design</span>
-<span style="background:#c6e2ff; padding:8px 12px; border-radius:8px;">🧠 Problem Solving</span>
-<span style="background:#d4f7d4; padding:8px 12px; border-radius:8px;">🔧 Software Tools</span>
-<span style="background:#f7d4f7; padding:8px 12px; border-radius:8px;">🚀 Project Development</span>
+<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Programming</span>
+<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Problem Solving</span>
+<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Creative Design</span>
+<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Software Tools</span>
+<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Project Development</span>
+<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Documentation</span>
 
 </div>
 
@@ -82,8 +137,8 @@ Designs, visuals, and multimedia elements that express my creative side.
 ---
 
 
-<div style="text-align:center; font-size:14px; color:#888;">
-Made with creativity, curiosity, and a lot of coffee.
+<div style="text-align:center; font-size:14px; color:#6f8fa6; margin-top:40px;">
+Designed with clarity, intention, and a forward‑thinking mindset.
 </div>
 
 
