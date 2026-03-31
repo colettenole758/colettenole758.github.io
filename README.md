@@ -1,7 +1,8 @@
 <div style="text-align:center;">
 
 ## 🌟 Colette Nole  
-### Computer Science Major  
+
+### Creative Technologist • Computer Science Major    
 
 Welcome to my ePortfolio — a space where creativity meets code.  
 Scroll down to explore my work, ideas, and capstone journey.
