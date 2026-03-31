@@ -1,4 +1,4 @@
 # Colette Nole
-Welcome to my CS499 Capstone ePortfolio.
+Welcome to My CS499 Capstone ePortfolio.
 
 
