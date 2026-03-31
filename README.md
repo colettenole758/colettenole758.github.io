@@ -48,8 +48,6 @@
 
 <div style="text-align:center;">
 
-# Colette Nole  
-
 ### Computer Science • Future‑Focused • Creative Thinker  
 
 Welcome to my ePortfolio — a clean, modern space where technology and creativity meet.
