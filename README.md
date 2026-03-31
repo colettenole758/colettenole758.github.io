@@ -49,7 +49,7 @@
 <div style="text-align:center;">
 
 
-## Computer Science • Future‑Focused • Creative Thinker  
+# Computer Science • Future‑Focused • Creative Thinker  
 
 Welcome to my ePortfolio — a clean, modern space where technology and creativity meet.
 
