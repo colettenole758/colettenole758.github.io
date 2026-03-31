@@ -1,66 +1,17 @@
-<!-- ========================= -->
-<!-- 🔷 TECH-FUTURISTIC LOGO  -->
-<!-- ========================= -->
-
-<div style="text-align:center; margin-top:30px;">
-  <div style="
-      font-size:48px;
-      font-weight:900;
-      letter-spacing:4px;
-      color:#00eaff;
-      text-shadow:0 0 12px #00eaff, 0 0 24px #007a99;
-      font-family: 'Trebuchet MS', sans-serif;">
-    CN
-  </div>
-  <div style="
-      font-size:16px;
-      color:#7ff6ff;
-      margin-top:-10px;
-      letter-spacing:3px;
-      text-shadow:0 0 8px #00eaff;">
-    COLETTE NOLE
-  </div>
-</div>
-
----
-
-<!-- ========================= -->
-<!-- 🔷 NAVIGATION BAR        -->
-<!-- ========================= -->
-
-<div style="
-  display:flex;
-  justify-content:center;
-  gap:40px;
-  padding:15px 0;
-  background:#0a0f14;
-  border-radius:8px;
-  margin-bottom:30px;
-  box-shadow:0 0 12px #00eaff;">
-  
-  <a href="#about" style="color:#00eaff; text-decoration:none; font-weight:bold;">About</a>
-  <a href="#capstone" style="color:#00eaff; text-decoration:none; font-weight:bold;">Capstone</a>
-  <a href="#portfolio" style="color:#00eaff; text-decoration:none; font-weight:bold;">ePortfolio</a>
-  <a href="#skills" style="color:#00eaff; text-decoration:none; font-weight:bold;">Skills</a>
-  <a href="#contact" style="color:#00eaff; text-decoration:none; font-weight:bold;">Contact</a>
-
-</div>
-
----
-
 <div style="text-align:center;">
 
-# ⚡ Colette Nole  
-### Computer Science • Tech Futurist • Creative Engineer  
+# 🌟 Colette Nole  
+### Creative Technologist • Computer Science Major  
 
-Welcome to my cyber‑styled ePortfolio — a fusion of creativity, computation, and futuristic design.
+Welcome to my ePortfolio — a space where creativity meets code.  
+Scroll down to explore my work, ideas, and capstone journey.
 
 </div>
 
 ---
 
-# 🎬 Featured Video  
-<div style="text-align:center; margin-top:20px;">
+## 🎬 Featured Video  
+<div style="text-align:center;">
   <iframe width="560" height="315"
     src="https://www.youtube.com/embed/xOX8SAS15zk"
     frameborder="0"
@@ -70,65 +21,53 @@ Welcome to my cyber‑styled ePortfolio — a fusion of creativity, computation,
 
 ---
 
-# <a name="about"></a> 🧬 About Me  
-I’m **Colette Nole**, a Computer Science major with a passion for futuristic tech, creative engineering, and building digital experiences that feel alive.
+## 🎨 About Me  
+Hi! I'm **Colette Nole**, a Computer Science student with a passion for building things that blend creativity and technology.  
+I enjoy exploring new ideas, designing unique digital experiences, and solving problems with code.
 
-I love blending:
-- **Code + Creativity**
-- **Logic + Imagination**
-- **Design + Engineering**
-
-This portfolio showcases my journey — from foundational CS work to my **CS499 Capstone**.
+This ePortfolio highlights my journey through CS, including my **CS499 Capstone** and other creative work.
 
 ---
 
-# <a name="capstone"></a> 🚀 CS499 Capstone  
-<div style="
-  border: 2px solid #00eaff;
-  padding: 20px;
-  border-radius: 12px;
-  background:#00141f;
-  box-shadow:0 0 12px #00eaff;">
+## 🚀 CS499 Capstone  
+<div style="border: 2px solid #f0a; padding: 15px; border-radius: 12px; background:#fff0fa;">
 
-## ✨ Capstone Project: *Your Title Here*  
-A futuristic, creative, and technically challenging project representing the peak of my CS studies.
+### **✨ Project Title (You can rename this!)**  
+A creative and technical deep‑dive into my final capstone experience.  
+This project represents the culmination of my Computer Science studies — combining design, logic, and innovation.
 
-### 🔧 Core Elements  
-- System architecture  
-- Problem‑solving  
-- Creative UI/UX  
-- Technical implementation  
-- Documentation & presentation  
-
-### 💡 Vision  
-To build something that feels like it belongs in tomorrow’s world.
+**Highlights:**  
+- 🧠 Problem‑solving & system design  
+- 🛠 Implementation using CS principles  
+- 🎨 Creative presentation & documentation  
+- 🚀 Real‑world application  
 
 </div>
 
 ---
 
-# <a name="portfolio"></a> 🧩 ePortfolio Work  
+## 🧩 ePortfolio Work  
+Here are some of the pieces that reflect my growth, creativity, and technical skills.
 
-## 📌 Reflection & Growth  
-Insights, challenges, and breakthroughs from my CS journey.
+### **📌 Reflection & Learning**
+A collection of insights, challenges, and breakthroughs from my CS journey.
 
-## 📌 Technical Work  
-Code samples, assignments, and engineering‑focused projects.
+### **📌 Technical Work**
+Assignments, code samples, and projects that showcase my development skills.
 
-## 📌 Creative Work  
-Visuals, multimedia, and experimental digital pieces.
+### **📌 Creative Work**
+Designs, visuals, and multimedia elements that express my creative side.
 
 ---
 
-# <a name="skills"></a> 🛠 Skills  
-<div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:10px;">
+## 🛠 Skills  
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-<span style="background:#003344; color:#00eaff; padding:10px 14px; border-radius:10px;">💻 Programming</span>
-<span style="background:#003344; color:#00eaff; padding:10px 14px; border-radius:10px;">🧠 Problem Solving</span>
-<span style="background:#003344; color:#00eaff; padding:10px 14px; border-radius:10px;">🎨 Creative Design</span>
-<span style="background:#003344; color:#00eaff; padding:10px 14px; border-radius:10px;">🔧 Software Tools</span>
-<span style="background:#003344; color:#00eaff; padding:10px 14px; border-radius:10px;">🚀 Project Development</span>
-<span style="background:#003344; color:#00eaff; padding:10px 14px; border-radius:10px;">📚 Documentation</span>
+<span style="background:#ffe680; padding:8px 12px; border-radius:8px;">💻 Programming</span>
+<span style="background:#ffd1dc; padding:8px 12px; border-radius:8px;">🎨 Creative Design</span>
+<span style="background:#c6e2ff; padding:8px 12px; border-radius:8px;">🧠 Problem Solving</span>
+<span style="background:#d4f7d4; padding:8px 12px; border-radius:8px;">🔧 Software Tools</span>
+<span style="background:#f7d4f7; padding:8px 12px; border-radius:8px;">🚀 Project Development</span>
 
 </div>
 
@@ -143,8 +82,8 @@ Visuals, multimedia, and experimental digital pieces.
 ---
 
 
-<div style="text-align:center; font-size:14px; color:#00eaff; margin-top:40px; text-shadow:0 0 8px #00eaff;">
-Powered by curiosity, creativity, and futuristic vision ⚡  
+<div style="text-align:center; font-size:14px; color:#888;">
+Made with creativity, curiosity, and a lot of coffee.
 </div>
 
 
