@@ -23,7 +23,7 @@ Scroll down to explore my work, ideas, and capstone journey.
 ---
 
 ## 🎨 About Me  
-Hi! I'm **Coletet Nole**, a Computer Science student with a passion for building things that blend creativity and technology.  
+Hi! I'm **Colette Nole**, a Computer Science student with a passion for building things that blend creativity and technology.  
 I enjoy exploring new ideas, designing unique digital experiences, and solving problems with code.
 
 This ePortfolio highlights my journey through CS, including my **CS499 Capstone** and other creative work.
