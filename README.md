@@ -1,4 +1,4 @@
-<h1>Colette Nole - Portfolio Website</h1>
+<h1>Colette Nole</h1>
 
 <p>Welcome to My CS499 Capstone ePortfolio Website!</p>
 
