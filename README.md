@@ -47,9 +47,14 @@
 ---
 
 <div style="text-align:center;">
-  <h2 style="margin-bottom:5px;">Computer Science • Future‑Focused • Creative Thinker</h2>
-  <p>Welcome to my ePortfolio — a clean, modern space where technology and creativity meet.</p>
+
+## Computer Science • Future‑Focused • Creative Thinker
+
+<p>Welcome to my ePortfolio — a clean, modern space where technology and creativity meet.</p>
+
 </div>
+
+
 
 ---
 
