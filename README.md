@@ -8,7 +8,7 @@
       font-weight:800;
       letter-spacing:2px;
       color:#4da6ff;
-      font-family: 'Segoe UI', sans-serif;">
+      font-family:'Segoe UI', sans-serif;">
     CN
   </div>
   <div style="
@@ -47,13 +47,8 @@
 ---
 
 <div style="text-align:center;">
-
-
-## Computer Science • Future‑Focused • Creative Thinker
-
-
-Welcome to my ePortfolio — a clean, modern space where technology and creativity meet.
-
+  <h2 style="margin-bottom:5px;">Computer Science • Future‑Focused • Creative Thinker</h2>
+  <p>Welcome to my ePortfolio — a clean, modern space where technology and creativity meet.</p>
 </div>
 
 ---
@@ -83,9 +78,9 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
 
 # <a name="capstone"></a> 🚀 CS499 Capstone  
 <div style="
-  border: 1px solid #c7d4e2;
-  padding: 20px;
-  border-radius: 10px;
+  border:1px solid #c7d4e2;
+  padding:20px;
+  border-radius:10px;
   background:#f8fafc;">
 
 ## Capstone Project: *Your Title Here*  
@@ -129,17 +124,12 @@ Visuals, multimedia, and design‑driven pieces.
 
 ---
 
-
-# <a name="contact"></a> 📬 Contact 
-- **ePortfolio:** https://colettenole758.github.io/
-- **GitHub:** https://github.com/colettenole758
-
+# <a name="contact"></a> 📬 Contact  
+- **ePortfolio:** https://colettenole758.github.io/  
+- **GitHub:** https://github.com/colettenole758  
 
 ---
-
 
 <div style="text-align:center; font-size:14px; color:#6f8fa6; margin-top:40px;">
 Designed with clarity, intention, and a forward‑thinking mindset.
 </div>
-
-
