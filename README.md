@@ -107,11 +107,11 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
 
 ---
 
+
 # <a name="portfolio"></a> 🧩 ePortfolio Work  
 
 ## 📘 Reflection & Growth  
-[Read my Professional Self-Assessment](./self-assessment.md)
-
+Insights and lessons learned throughout my CS journey.
 
 ## 💻 Technical Work  
 Assignments, code samples, and engineering‑focused projects.
@@ -136,6 +136,14 @@ Visuals, multimedia, and design‑driven pieces.
 ---
 
 # <a name="contact"></a> 📬 Contact  
+- **ePortfolio:** https://colettenole758.github.io/  
+- **GitHub:** https://github.com/colettenole758  
+
+---
+
+<div style="text-align:center; font-size:14px; color:#6f8fa6; margin-top:40px;">
+Designed with clarity, intention, and a forward‑thinking mindset.
+</div> 📬 Contact  
 - **ePortfolio:** https://colettenole758.github.io/  
 - **GitHub:** https://github.com/colettenole758  
 
