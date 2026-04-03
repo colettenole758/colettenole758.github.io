@@ -84,8 +84,11 @@ A polished, professional, and technically challenging project representing the c
 
 ## My Capstone Artifacts
 [Software Design and Engineering (SNHU Travel System)](./software-design.md)
+
 [Algorithms and Data Structures (SNHU Travel System)](./algorithms.md)
+
 [Database Security and Optimization (Quantigration Database)](./databases.md)
+
 [View the Refactored SQL Scripts here](./code-files/Enhancements.sql)
 
 ### Key Focus Areas
