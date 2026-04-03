@@ -108,41 +108,46 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
 ---
 
 
-# <a name="portfolio"></a> 🧩 ePortfolio Work  
+<section id="portfolio">
+  <h1>🧩 ePortfolio Work</h1>
 
-## 📘 Reflection & Growth  
-Insights and lessons learned throughout my CS journey.
+  <h2>📘 Reflection & Growth</h2>
+  <p>Insights and lessons learned throughout my CS journey.</p>
 
-## 💻 Technical Work  
-Assignments, code samples, and engineering‑focused projects.
+  <h2>💻 Technical Work</h2>
+  <p>Assignments, code samples, and engineering‑focused projects.</p>
 
-## 🎨 Creative Work  
-Visuals, multimedia, and design‑driven pieces.
+  <h2>🎨 Creative Work</h2>
+  <p>Visuals, multimedia, and design‑driven pieces.</p>
+</section>
 
----
+<hr>
 
-# <a name="skills"></a> 🛠 Skills  
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
+<!-- Skills Section -->
+<section id="skills">
+  <h1>🛠 Skills</h1>
+  <div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
+    <span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Programming</span>
+    <span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Problem Solving</span>
+    <span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Creative Design</span>
+    <span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Software Tools</span>
+    <span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Project Development</span>
+    <span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Documentation</span>
+  </div>
+</section>
 
-<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Programming</span>
-<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Problem Solving</span>
-<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Creative Design</span>
-<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Software Tools</span>
-<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Project Development</span>
-<span style="background:#e6eef5; color:#4a6fa5; padding:8px 12px; border-radius:8px;">Documentation</span>
+<hr>
 
-</div>
+<!-- Contact Section -->
+<section id="contact">
+  <h1>📬 Contact</h1>
+  <ul>
+    <li><strong>ePortfolio:</strong> <a href="https://colettenole758.github.io/">https://colettenole758.github.io/</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/colettenole758">https://github.com/colettenole758</a></li>
+  </ul>
+</section>
 
----
-
-# <a name="contact"></a> 📬 Contact  
-- **ePortfolio:** https://colettenole758.github.io/  
-- **GitHub:** https://github.com/colettenole758  
-
----
-
-<div style="text-align:center; font-size:14px; color:#6f8fa6; margin-top:40px;">
-Designed with clarity, intention, and a forward‑thinking mindset.
-
-</div>
-
+<!-- Footer -->
+<footer style="text-align:center; font-size:14px; color:#6f8fa6; margin-top:40px;">
+  Designed with clarity, intention, and a forward‑thinking mindset.
+</footer>
