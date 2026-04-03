@@ -102,7 +102,7 @@ A polished, professional, and technically challenging project representing the c
 # <a name="portfolio"></a> 🧩 ePortfolio Work  
 
 ## 📘 Reflection & Growth  
-Insights and lessons learned throughout my CS journey.
+[Read my Professional Self-Assessment](./self-assessment.md)
 
 ## 💻 Technical Work  
 Assignments, code samples, and engineering‑focused projects.
