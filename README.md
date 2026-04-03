@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!-- 🔷 CLEAN TECH LOGO       -->
-<!-- ========================= -->
-
 <div style="text-align:center; margin-top:30px;">
   <div style="
       font-size:42px;
@@ -21,10 +17,6 @@
 </div>
 
 ---
-
-<!-- ========================= -->
-<!-- 🔷 MINIMAL NAV BAR       -->
-<!-- ========================= -->
 
 <div style="
   display:flex;
@@ -70,10 +62,11 @@
 # <a name="about"></a> 🧭 About Me  
 I’m **Colette Nole**, a Computer Science major who enjoys building thoughtful, future‑focused digital experiences.
 
-My work blends:
+Bringing a rich foundation of **11 years in software testing and quality assurance**, my work naturally blends:
 - clean design  
 - logical structure  
 - creative problem‑solving  
+- security-first defensive programming
 
 This portfolio highlights my journey through CS and my **CS499 Capstone**.
 
@@ -86,7 +79,7 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
   border-radius:10px;
   background:#f8fafc;">
 
-## Capstone Projects: *Your Title Here*  
+## Capstone Projects: Enterprise Systems Refactoring  
 A polished, professional, and technically challenging project representing the culmination of my CS studies.
 
 ## My Capstone Artifacts
