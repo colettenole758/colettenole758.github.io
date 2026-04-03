@@ -79,25 +79,30 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
   border-radius:10px;
   background:#f8fafc;">
 
-## Capstone Projects: Enterprise Systems Refactoring
+<div style="margin-top: 25px; margin-bottom: 15px;">
+  <h2 style="margin-bottom: 10px;">Capstone Projects: Enterprise Systems Refactoring</h2>
+  <p>A polished, professional, and technically challenging project representing the culmination of my CS studies.</p>
+</div>
 
-A polished, professional, and technically challenging project representing the culmination of my CS studies.
+<div style="margin-top: 20px;">
+  <h2 style="margin-bottom: 10px;">My Capstone Artifacts</h2>
+  <ul style="margin-left: 20px;">
+    <li><a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a></li>
+    <li><a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a></li>
+    <li><a href="./databases.md">Database Security and Optimization (Quantigration Database)</a></li>
+    <li><a href="./code-files/Enhancements.sql">View the Refactored SQL Scripts here</a></li>
+  </ul>
+</div>
 
-## My Capstone Artifacts
-
-* [Software Design and Engineering (SNHU Travel System)](./software-design.md)
-* [Algorithms and Data Structures (SNHU Travel System)](./algorithms.md)
-* [Database Security and Optimization (Quantigration Database)](./databases.md)
-* [View the Refactored SQL Scripts here](./code-files/Enhancements.sql)
-
-### Key Focus Areas
-
-* System architecture
-* Implementation
-* UI/UX considerations
-* Documentation
-* Problem‑solving  
-
+<div style="margin-top: 20px;">
+  <h3 style="margin-bottom: 10px;">Key Focus Areas</h3>
+  <ul style="margin-left: 20px;">
+    <li>System architecture</li>
+    <li>Implementation</li>
+    <li>UI/UX considerations</li>
+    <li>Documentation</li>
+    <li>Problem‑solving</li>
+  </ul>
 </div>
 
 ---
