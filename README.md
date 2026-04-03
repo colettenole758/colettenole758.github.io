@@ -68,7 +68,7 @@ Bringing a rich foundation of **11 years in software testing and quality assuran
 - creative problem‑solving  
 - security-first defensive programming
 
-This portfolio highlights my journey through CS and my **CS499 Capstone**.
+This portfolio highlights my journey through Computer Science and my **CS499 Capstone**.
 
 ---
 
