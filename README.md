@@ -144,3 +144,5 @@ Visuals, multimedia, and design‑driven pieces.
 <div style="text-align:center; font-size:14px; color:#6f8fa6; margin-top:40px;">
 Designed with clarity, intention, and a forward‑thinking mindset.
 
+</div>
+
