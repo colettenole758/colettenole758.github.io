@@ -104,7 +104,6 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
     <li>Problem‑solving</li>
   </ul>
 </div>
-</section>
 
 <hr>
 
