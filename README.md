@@ -86,8 +86,14 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
   border-radius:10px;
   background:#f8fafc;">
 
-## Capstone Project: *Your Title Here*  
+## Capstone Projects: *Your Title Here*  
 A polished, professional, and technically challenging project representing the culmination of my CS studies.
+
+## My Capstone Artifacts
+
+* [Software Design and Engineering (SNHU Travel System)](./software-design.md)
+* [Algorithms and Data Structures (SNHU Travel System)](./algorithms.md)
+* [Database Security and Optimization (Quantigration Database)](./databases.md)
 
 ### Key Focus Areas  
 - System architecture  
