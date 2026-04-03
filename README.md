@@ -104,7 +104,9 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
     <li>Problem‑solving</li>
   </ul>
 </div>
+</section>
 
+<hr>
 
 <section id="portfolio">
   <h1>🧩 ePortfolio Work</h1>
