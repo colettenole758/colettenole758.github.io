@@ -1,4 +1,4 @@
-# Category Three: Database Security and Optimization
+# Category Three: Databases
 
 ## 📄 Artifact Description
 The artifact showcased here is the **Quantigration Database**, originally developed in SQL for my DAD 220 course in late 2023. Its primary function was to track and analyze Return Merchandise Authorizations (RMAs) to discover product failure trends.
