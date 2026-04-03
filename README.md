@@ -90,7 +90,7 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
     <li><a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a></li>
     <li><a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a></li>
     <li><a href="./databases.md">Databases (Quantigration Database)</a></li>
-    <li><a href="./code-files/Enhancements.sql">View the Refactored SQL Scripts here</a></li>
+    <li><a href="./code-files/Enhancements.sql">Refactored SQL Script</a></li>
   </ul>
 </div>
 
