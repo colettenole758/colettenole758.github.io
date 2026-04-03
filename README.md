@@ -104,6 +104,7 @@ A polished, professional, and technically challenging project representing the c
 ## 📘 Reflection & Growth  
 [Read my Professional Self-Assessment](./self-assessment.md)
 
+
 ## 💻 Technical Work  
 Assignments, code samples, and engineering‑focused projects.
 
