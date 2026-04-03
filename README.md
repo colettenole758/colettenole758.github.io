@@ -95,6 +95,8 @@ A polished, professional, and technically challenging project representing the c
 * [Algorithms and Data Structures (SNHU Travel System)](./algorithms.md)
 * [Database Security and Optimization (Quantigration Database)](./databases.md)
 
+[View the Refactored SQL Scripts here](./code-files/Enhancements.sql)
+
 ### Key Focus Areas  
 - System architecture  
 - Implementation  
