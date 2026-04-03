@@ -105,8 +105,6 @@ This portfolio highlights my journey through CS and my **CS499 Capstone**.
   </ul>
 </div>
 
----
-
 
 <section id="portfolio">
   <h1>🧩 ePortfolio Work</h1>
