@@ -89,7 +89,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 <div style="margin-top: 20px;">
   <h2 style="margin-bottom: 10px;">My Capstone Artifacts</h2>
   <ul style="margin-left: 20px;">
-    <li><a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a></li>
+    <li style="margin-bottom: 8px;">🏗️ <a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a></li>
     <li><a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a></li>
     <li><a href="./databases.md">Databases (Quantigration Database)</a></li>
     <li><a href="./code-files/Enhancements.sql">Refactored SQL Script</a></li>
