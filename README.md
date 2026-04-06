@@ -70,6 +70,8 @@ Bringing a rich foundation of **11 years in software testing and quality assuran
 
 This portfolio highlights my journey through Computer Science and my **CS499 Capstone**.
 
+[Read my Full Professional Self-Assessment](./self-assessment.md)
+
 ---
 
 # <a name="capstone"></a> 🚀 CS499 Capstone  
