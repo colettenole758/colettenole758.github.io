@@ -12,8 +12,8 @@ These changes really helped me grow in my ability to design software that’s ea
 
 ## 🎯 Alignment with Course Outcomes
 This enhancement fulfills the planned objectives established early in the capstone:
-* **Outcome 3 (Industry Standards):** I designed a solution using established architectural practices (MVC), effectively managing the trade-offs between quick, messy code and structured, scalable development.
-* **Outcome 4 (Innovative Tools):** I integrated unit testing checks to ensure regression issues are caught immediately, bridging technical computer science skills with my extensive 11-year history in software testing.
+* **Outcome 3 (Industry Standards):** I designed a solution using established architectural practices (MVC), effectively managing the trade-offs between quick, messy code and structured, scalable development. This enhancement also helped me make progress on a few key course outcomes. First, it gave me the chance to design and evaluate computing solutions using solid software engineering practices. By separating the data from the UI and adding a service layer, I showed that I can build structured, scalable solutions. 
+* **Outcome 4 (Innovative Tools):** I integrated unit testing checks to ensure regression issues are caught immediately, bridging technical computer science skills with my extensive 11-year history in software testing. Also, using object-oriented design (like the Destination class), I demonstrated how to organize code so that it’s easier to reuse and extend. I also brought in defensive programming by ensuring image resources are checked before use, which ties into building a security mindset, making sure the application handles unexpected issues gracefully.
 
 ## 💭 Reflection on the Process
 Refactoring legacy code is often harder than writing something new. 
