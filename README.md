@@ -97,10 +97,19 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.
     </div>
     </li>
-    <li style="margin-bottom: 8px;">🧮 <a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a>
+    <div style="margin-bottom: 8px;">🧮 <a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a>
     
+**Artifact Description:** 
+
+  </div>
+  </li>
+  
+    <div style="margin-bottom: 8px;">🛡️ <a href="./databases.md">Databases (Quantigration Database)</a>
+  **Artifact Description:**
+  The artifact selected for this enhancement is the Quantigration database project, originally developed in DAD 220 in December 2023. This database was designed to manage business data related to orders, collaborators, and return merchandise authorizations (RMAs). The system uses relational tables and SQL queries to analyze product returns and identify patterns in customer behavior. While the original project demonstrated foundational SQL skills, it relied on direct queries and lacked structured methods for improving security, abstraction, and maintainability.
+   </div>
     </li>
-    <li style="margin-bottom: 8px;">🛡️ <a href="./databases.md">Databases (Quantigration Database)</a></li>
+    
     <li style="margin-bottom: 8px;">📄 <a href="./code-files/Enhancements.sql">Refactored SQL Script</a></li>
   </ul>
 </div>
