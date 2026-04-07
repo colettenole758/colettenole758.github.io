@@ -109,10 +109,10 @@ The artifact used for this enhancement is the SNHU Travel System, a Java-based a
   The artifact selected for this enhancement is the Quantigration database project, originally developed in DAD 220 in December 2023. This database was designed to manage business data related to orders, collaborators, and return merchandise authorizations (RMAs). The system uses relational tables and SQL queries to analyze product returns and identify patterns in customer behavior. While the original project demonstrated foundational SQL skills, it relied on direct queries and lacked structured methods for improving security, abstraction, and maintainability.
    </div>
     </li>
-    
-    </li style="margin-bottom: 8px;">📄 <a href="./code-files/Enhancements.sql">Refactored SQL Script</a>
+    </div style="margin-bottom: 8px;">📄 <a href="./code-files/Enhancements.sql">Refactored SQL Script</a>
     </div>
     </li>
+    </ul>
 
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Key Focus Areas</h3>
