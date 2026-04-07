@@ -111,6 +111,7 @@ The artifact used for this enhancement is the SNHU Travel System, a Java-based a
     </li>
     
     </div style="margin-bottom: 8px;">📄 <a href="./code-files/Enhancements.sql">Refactored SQL Script</a>
+    </div>
     </li>
 
 <div style="margin-top: 20px;">
