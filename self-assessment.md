@@ -6,7 +6,7 @@ Completing my computer science degree alongside my Capstone course has been the 
 ---
 
 ## 🔍 Reflections on the Capstone and ePortfolio
-The process of developing the ePortfolio forced me to look back at my past academic artifacts and evaluate them with the eyes of a seasoned engineer. Refactoring the SNHU Travel System and the Quantigration Database wasn't just about making code work—it was about making code maintainable, secure, and performant. 
+The process of developing the ePortfolio forced me to look back at my past academic artifacts and evaluate them with the eyes of a seasoned engineer. Refactoring the SNHU Travel System and the Quantigration Database wasn't just about making code work, it was about making code maintainable, secure, and performant. 
 
 By showcasing my work in Software Design, Algorithms, and Databases, I am demonstrating to future employers that I don't just understand code syntax; I understand system architecture and software quality at a professional scale.
 
