@@ -1,12 +1,13 @@
 # Category One: Software Design and Engineering
 
 ## 📄 Artifact Description
-The artifact showcased here is the **SNHU Travel System**, originally developed in Java during my CS 250 course in 2024. Its primary purpose is to manage and display a top-five list of curated vacation destinations using the Java Swing framework.
+The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on. 
 
 ## ⚖️ Justification for Inclusion
-I selected this artifact for my ePortfolio because it perfectly demonstrates my evolution as a developer—moving from basic coding mechanics to professional architecture. 
+I decided to include this project because it’s a great example of how I’ve grown in software application. The original version worked, but it didn’t really follow good design practices. Everything was tied together; data, logic, and display, so any change to destinations meant changing the UI code directly. That wasn’t going to scale, so I decided to refactor it. 
 * **The Problem:** The original project was highly tightly coupled, violating the Single Responsibility Principle by mixing user interface code with data loading logic.
-* **The Solution:** I refactored the monolith into a clean **Model-View-Controller (MVC)** design pattern. 
+* **The Solution:** I introduced a Destination class to represent each destination as a neat little object with a description and an image. Then I added a DestinationService class, which handles all the destination data separately from the UI. By doing this, the user interface just asks the service for a list of destinations, so it’s much cleaner and more flexible. I also updated my helper class, TextAndIcon, so each list item pairs a description with its image, and a custom list renderer that displays them together in a neat way. I kept the original main file: the TopFiveDestinationList to start the app. It still uses SwingUtilities.invokeLater() to make sure the UI is created safely on the event thread. That’s a small but important detail that ensures the app is stable from the beginning.
+These changes really helped me grow in my ability to design software that’s easier to maintain and expand. I’m also more confident in structuring a project so that data, logic, and presentation stay separate, this is a big step toward building real world applications. 
 * **New Skills Showcased:** By separating the data modeling from the UI rendering, I introduced automated testing capabilities and improved software maintainability.
 
 ## 🎯 Alignment with Course Outcomes
@@ -16,5 +17,5 @@ This enhancement fulfills the planned objectives established early in the capsto
 
 ## 💭 Reflection on the Process
 Refactoring legacy code is often harder than writing something new. 
-* **What I Learned:** I learned that proper software engineering requires active defensive programming. Making sure data and UI do not cross boundaries makes tracking down bugs drastically faster.
-* **Challenges:** A main challenge was ensuring the custom cell renderer still mapped correctly to the new data objects after extracting them from the frame. This forced me to evaluate object-oriented coupling deeply.
+* **What I Learned:** Working on this enhancement gave me a fresh look at how code evolves. When I first built it, I was mainly concerned with making it work, but going back and refactoring it gave me a bigger picture of how important good structure is. One big lesson was how separating concerns makes the code easier to maintain. Another thing I learned was how important it is to anticipate failures, small things like checking for missing images can make a big difference in how robust an app is. 
+* **Challenges:** A main challenge was deciding how much to refactor without overcomplicating the original logic, but I think I struck a good balance. Overall, this process really reinforced that software design is iterative; you keep learning and improving as you go. I now feel much more confident about structuring code, anticipating potential issues, and designing systems that can grow as needed. I’m excited to carry these skills forward, especially as I continue to refine this project and prepare my final ePortfolio.
