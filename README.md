@@ -91,29 +91,27 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 <div style="margin-top: 20px;">
   <h2 style="margin-bottom: 10px;">My Capstone Artifacts</h2>
   <ul style="margin-left: 20px;">
-    <div style="margin-bottom: 8px;">🏗️ <a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a>
 
+  <li style="margin-bottom: 8px;">
+    🏗️ <a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a>
+    <p><strong>Artifact Description:</strong> The artifact I chose for this milestone is the SNHU Travel System...</p>
+  </li>
 
-**Artifact Description:**
-The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.
-  </div>
-  
-  <div style="margin-bottom: 8px;">🧮 <a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a>
-    
-**Artifact Description:** 
-The artifact used for this enhancement is the SNHU Travel System, a Java-based application originally developed during CS 250. a Java application originally developed for CS 250 in 2024. While Milestone Two focused on the "how" (Software Engineering), Milestone Three focuses on the "what" (Algorithms and Data Structures). The software displays a travel destination list using a custom renderer for icons and text.
-  </div>
-  
-  <div style="margin-bottom: 8px;">🛡️ <a href="./databases.md">Databases (Quantigration Database)</a>
-    
-  **Artifact Description:**
-  The artifact selected for this enhancement is the Quantigration database project, originally developed in DAD 220 in December 2023. This database was designed to manage business data related to orders, collaborators, and return merchandise authorizations (RMAs). The system uses relational tables and SQL queries to analyze product returns and identify patterns in customer behavior. While the original project demonstrated foundational SQL skills, it relied on direct queries and lacked structured methods for improving security, abstraction, and maintainability.
+  <li style="margin-bottom: 8px;">
+    🧮 <a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a>
+    <p><strong>Artifact Description:</strong> The artifact used for this enhancement is the SNHU Travel System...</p>
+  </li>
 
-  </div>
-  </div style="margin-bottom: 8px;">📄 <a href="./code-files/Enhancements.sql">Refactored SQL Script</a>
-  </div>
-  
-  </ul>
+  <li style="margin-bottom: 8px;">
+    🛡️ <a href="./databases.md">Databases (Quantigration Database)</a>
+    <p><strong>Artifact Description:</strong> The artifact selected for this enhancement is the Quantigration database project...</p>
+  </li>
+
+  <li style="margin-bottom: 8px;">
+    📄 <a href="./code-files/Enhancements.sql">Refactored SQL Script</a>
+  </li>
+
+</ul>
 
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Key Focus Areas</h3>
