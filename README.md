@@ -52,7 +52,7 @@
 
 # 🎬 Featured Video 
 <div style="text-align:center; margin-top:20px;">
-  <iframe width="560" height="315"
+  <iframe width="460" height="315"
     src="https://www.youtube.com/embed/xOX8SAS15zk"
     frameborder="0"
     allowfullscreen> 
