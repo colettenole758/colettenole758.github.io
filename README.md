@@ -93,6 +93,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
   <ul style="margin-left: 20px;">
     <div style="margin-bottom: 8px;">🏗️ <a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a>
 
+
 **Artifact Description:**
 The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.
   </div>
@@ -102,7 +103,7 @@ The artifact I chose for this milestone is the SNHU Travel System, which I first
 **Artifact Description:** 
 The artifact used for this enhancement is the SNHU Travel System, a Java-based application originally developed during CS 250. a Java application originally developed for CS 250 in 2024. While Milestone Two focused on the "how" (Software Engineering), Milestone Three focuses on the "what" (Algorithms and Data Structures). The software displays a travel destination list using a custom renderer for icons and text.
   </div>
-  </li>
+  
   <div style="margin-bottom: 8px;">🛡️ <a href="./databases.md">Databases (Quantigration Database)</a>
     
   **Artifact Description:**
