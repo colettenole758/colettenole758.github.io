@@ -99,11 +99,11 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 
   <li style="margin-bottom: 8px;">
     🧮 <a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a>
-    <p><strong>Artifact Description:</strong> TThe artifact used for this enhancement is the SNHU Travel System, a Java-based application originally developed during CS 250. a Java application originally developed for CS 250 in 2024. While Milestone Two focused on the "how" (Software Engineering), Milestone Three focuses on the "what" (Algorithms and Data Structures). The software displays a travel destination list using a custom renderer for icons and text.</p>
+    <p><strong>Artifact Description:</strong> The artifact used for this enhancement is the SNHU Travel System, a Java-based application originally developed during CS 250. a Java application originally developed for CS 250 in 2024. While Milestone Two focused on the "how" (Software Engineering), Milestone Three focuses on the "what" (Algorithms and Data Structures). The software displays a travel destination list using a custom renderer for icons and text.</p>
   </li>
 
   <li style="margin-bottom: 8px;">
-    🛡️ <a href="./databases.md">Databases (Quantigration Database)</a>
+    🛡️ <a href="./databases.md">Databases Quantigration Database</a>
     <p><strong>Artifact Description:</strong> The artifact selected for this enhancement is the Quantigration database project...</p>The artifact selected for this enhancement is the Quantigration database project, originally developed in DAD 220 in December 2023. This database was designed to manage business data related to orders, collaborators, and return merchandise authorizations (RMAs). The system uses relational tables and SQL queries to analyze product returns and identify patterns in customer behavior. While the original project demonstrated foundational SQL skills, it relied on direct queries and lacked structured methods for improving security, abstraction, and maintainability.</p>
   </li>
 
