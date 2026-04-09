@@ -53,7 +53,6 @@
 
 ---
 
-This code review provides a technical walkthrough of the original artifacts selected for my Capstone project: the SNHU Travel System (Java) and the Quantigration Database (SQL). This review analyzes the initial functionality of these systems while identifying specific vulnerabilities in architecture, data efficiency, and security. By examining the tightly coupled logic of the Java application and the raw query structures of the database, I outline a strategic roadmap for enhancements. These planned improvements including the implementation of an MVC design pattern, dynamic data structures, and secure database views are designed to demonstrate a transition from foundational coding to professional level software engineering, directly aligning with the core outcomes of the Computer Science program.
 
 # 🎬 Code Review Video 
 <div style="text-align:center; margin-top:20px;">
@@ -63,6 +62,12 @@ This code review provides a technical walkthrough of the original artifacts sele
     allowfullscreen> 
   </iframe> 
 </div>
+
+
+This code review includes:
+- A walkthrough of the existing system functionality  
+- Identification of issues in structure, efficiency, and security  
+- Planned enhancements across software design, algorithms, and databases  
 
 ---
 
