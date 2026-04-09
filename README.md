@@ -1,3 +1,8 @@
+# 🧠 Professional Self-Assessment  
+[Read my Professional Self-Assessment](./self-assessment.md)
+
+---
+
 <div style="text-align:center; margin-top:30px;">
   <div style="
       font-size:42px;
@@ -72,7 +77,6 @@ Bringing a rich foundation of **11 years in software testing and quality assuran
 
 This portfolio highlights my journey through Computer Science and my **CS499 Capstone**.
 
-[Read my Full Professional Self-Assessment](./self-assessment.md)
 
 ---
 
