@@ -99,6 +99,14 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
   <p>A polished, professional, and technically challenging project representing the culmination of my CS studies.</p>
 </div>
 
+### 🎯 Course Outcomes Demonstrated
+
+- Collaborative problem solving and structured development practices  
+- Professional communication through documentation and video walkthrough  
+- Algorithmic design and data structure optimization  
+- Implementation using modern tools and programming techniques  
+- Security-focused enhancements in application and database design  
+
 <div style="margin-top: 20px;">
   <h2 style="margin-bottom: 10px;">My Capstone Artifacts</h2>
   <ul style="margin-left: 20px;">
