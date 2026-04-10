@@ -1,9 +1,10 @@
+<div>
 <style>
-  /* This targets the theme's automatic header and hides it */
-  .page-header, .site-header, .project-name {
-    display: none !important;
+  .page-header, .site-header, .project-name { 
+    display: none !important; 
   }
 </style>
+</div>
 
 
 # 🧠 Professional Self-Assessment  
