@@ -112,7 +112,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
   <ul style="margin-left: 20px;">
 
   <li style="margin-bottom: 8px;">
-    🏗️ <a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a>
+    🏗️ Software Design and Engineering (SNHU Travel System)
 
     <p><strong>Original Artifact:</strong><br>
     <a href="./code-files/original-software-design">View Original Project</a></p>
