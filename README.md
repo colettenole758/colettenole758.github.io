@@ -55,15 +55,16 @@
 
 
 # 🎬 Code Review Video 
-<div style="
-  padding: 15px;
-  background: #2d3748; /* Dark sleek border */
-  border-radius: 12px;
-  display: inline-block;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-">
-  <iframe width="460" height="315" src="https://www.youtube.com/embed/xOX8SAS15zk" ...></iframe>
+<div style="text-align:center; margin-top:20px;">
+  <iframe width="460" height="315"
+    src="https://www.youtube.com/embed/xOX8SAS15zk"
+    frameborder="0"
+    allowfullscreen> 
+  </iframe> 
 </div>
+<img width="468" height="237" alt="image" src="https://github.com/user-attachments/assets/61adc3fc-0747-4423-b54e-8b945c913815" />
+
+
 
 
 
