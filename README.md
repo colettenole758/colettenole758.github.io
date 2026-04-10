@@ -1,6 +1,6 @@
 <div>
 <style>
-  .page-header, .site-header, .project-name { 
+  .page-header, .site-header, .project-name, .project-tagline { 
     display: none !important; 
   }
 </style>
