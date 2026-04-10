@@ -101,13 +101,15 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 </div>
 
 
-### 🎯 Course Outcomes Demonstrated
+<h3>🎯 Course Outcomes Demonstrated</h3>
 
-- Collaborative problem solving and structured development practices  
-- Professional communication through documentation and video walkthrough  
-- Algorithmic design and data structure optimization  
-- Implementation using modern tools and programming techniques  
-- Security-focused enhancements in application and database design  
+<ul>
+  <li>Collaborative problem solving and structured development practices</li>
+  <li>Professional communication through documentation and video walkthrough</li>
+  <li>Algorithmic design and data structure optimization</li>
+  <li>Implementation using modern tools and programming techniques</li>
+  <li>Security-focused enhancements in application and database design</li>
+</ul>
   
 <div style="margin-top: 20px;">
   <h2 style="margin-bottom: 10px;">My Capstone Artifacts</h2>
