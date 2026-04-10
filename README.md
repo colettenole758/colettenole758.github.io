@@ -144,28 +144,21 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 </ul>
 </div>
 
-### 🔄 Enhancement Summary
+<h3>🔄 Enhancement Summary</h3>
 
-**Before Refactoring**
-- Hardcoded data in the user interface  
-- Tightly coupled application logic  
-- Direct SQL queries without abstraction  
+<p><strong>Before Refactoring</strong></p>
+<ul>
+  <li>Hardcoded data in the user interface</li>
+  <li>Tightly coupled application logic</li>
+  <li>Direct SQL queries without abstraction</li>
+</ul>
 
-**After Refactoring**
-- Implementation of MVC architecture for better structure  
-- Use of dynamic data structures to improve flexibility  
-- Secure database views and improved query design  
-  </ul>
-
-<div style="margin-top: 20px;">
-  <h3 style="margin-bottom: 10px;">Key Focus Areas</h3>
-  <ul style="margin-left: 20px;">
-    <li>System architecture</li>
-    <li>Implementation</li>
-    <li>UI/UX considerations</li>
-    <li>Documentation</li>
-    <li>Problem‑solving</li>
-  </ul>
+<p><strong>After Refactoring</strong></p>
+<ul>
+  <li>Implementation of MVC architecture for better structure</li>
+  <li>Use of dynamic data structures to improve flexibility</li>
+  <li>Secure database views and improved query design</li>
+</ul>
 </div>
 
 <hr>
