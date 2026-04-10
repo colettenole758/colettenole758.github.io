@@ -1,4 +1,4 @@
-# 🧠 Professional Self-Assessment  
+# Professional Self-Assessment  
 [Read My Professional Self-Assessment](./self-assessment.md)
 
 ---
