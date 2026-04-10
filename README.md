@@ -140,7 +140,7 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 <li style="margin-bottom: 15px;">  
 🛡️ Quantigration Database
 <p><strong>Original Artifact:</strong><br>
-<a href="./code-files/original-database-sql.png">View Original Project</a></p> 
+<a href="./code-files/original-database sql.png">View Original Project</a></p> 
 <p><strong>Enhanced Artifact:</strong><br>
 <a href="https://github.com/colettenole758/colettenole758.github.io/blob/main/code-files/Enhancements.sql">View Enhanced Project</a></p> 
 <p><strong>Enhancement Narrative:</strong><br>
