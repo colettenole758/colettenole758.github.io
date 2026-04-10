@@ -114,14 +114,17 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 <div style="margin-top: 20px;">
   <h2 style="margin-bottom: 10px;">My Capstone Artifacts</h2>
   <ul style="margin-left: 20px;">
-
-  <li style="margin-bottom: 15px;">
-    🏗️ Software Design and Engineering (SNHU Travel System)
-    <p><strong>Original Artifact:</strong><br><a href="./code-files/original-software-design">View Original Project</a></p>
-    <p><strong>Enhanced Artifact:</strong><br><a href="./code-files/software-design">View Enhanced Project</a></p>
-    <p><strong>Enhancement Narrative:</strong><br><a href="./software-design.md">Read Narrative</a></p>
-    <p><strong>Artifact Description:</strong> The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.</p>
-  </li>
+<li style="margin-bottom: 15px;">
+  
+🏗️ Software Design and Engineering (SNHU Travel System)
+<p><strong>Original Artifact:</strong><br>
+<a href="https://github.com/colettenole758/colettenole758.github.io/tree/main/code-files/original-software-design">View Original Project</a></p>
+<p><strong>Enhanced Artifact:</strong><br>
+<a href="https://github.com/colettenole758/colettenole758.github.io/tree/main/code-files/software-design">View Enhanced Project</a></p>
+<p><strong>Enhancement Narrative:</strong><br>
+<a href="./software-design.md">Read Narrative</a></p>
+<p><strong>Artifact Description:</strong> The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.</p>
+</li>
 
   <li style="margin-bottom: 15px;"> 
 🧮 Algorithms and Data Structures (SNHU Travel System)
@@ -134,13 +137,16 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 </li>
 
 
-  <li style="margin-bottom: 15px;"> 
+<li style="margin-bottom: 15px;">  
 🛡️ Quantigration Database
-<p><strong>Original Artifact:</strong><br><a href="./code-files/original-database sql.png">View Original Project</a></p> 
-<p><strong>Enhanced Artifact:</strong><br><a href="./code-files/Enhancements.sql">View Enhanced Project</a></p> 
-<p><strong>Enhancement Narrative:</strong><br><a href="./databases.md">Read Narrative</a></p> 
+<p><strong>Original Artifact:</strong><br>
+<a href="./code-files/original-database-sql.png">View Original Project</a></p> 
+<p><strong>Enhanced Artifact:</strong><br>
+<a href="https://github.com/colettenole758/colettenole758.github.io/blob/main/code-files/Enhancements.sql">View Enhanced Project</a></p> 
+<p><strong>Enhancement Narrative:</strong><br>
+<a href="./databases.md">Read Narrative</a></p> 
 <p><strong>Artifact Description:</strong> The artifact selected for this enhancement is the Quantigration database project, originally developed in DAD 220 in December 2023. This database was designed to manage business data related to orders, collaborators, and return merchandise authorizations (RMAs). The system uses relational tables and SQL queries to analyze product returns and identify patterns in customer behavior. While the original project demonstrated foundational SQL skills, it relied on direct queries and lacked structured methods for improving security, abstraction, and maintainability.</p>
-  </li>
+</li>
 
 
 </ul>
