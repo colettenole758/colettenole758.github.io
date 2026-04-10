@@ -155,7 +155,7 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 - Implementation of MVC architecture for better structure  
 - Use of dynamic data structures to improve flexibility  
 - Secure database views and improved query design  
-
+  </ul>
 
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Key Focus Areas</h3>
