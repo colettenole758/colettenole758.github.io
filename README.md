@@ -114,7 +114,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
   <li style="margin-bottom: 8px;">
 
 **Original Artifact:**  
-[View Original Project](./original-software-design)
+[View Original Project]code-files/original-software-design
 
 **Enhanced Artifact:**  
 [View Enhanced Project](code-files/software-design)
