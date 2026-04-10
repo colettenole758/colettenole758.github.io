@@ -142,6 +142,7 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 
 
 </ul>
+</div>
 
 ### 🔄 Enhancement Summary
 
