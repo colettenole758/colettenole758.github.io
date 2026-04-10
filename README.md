@@ -113,17 +113,23 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 
   <li style="margin-bottom: 8px;">
 
-🏗️ <a href="Software Design and Engineering (SNHU Travel System)"</a>"
-**Original Artifact:**  
-[View Original Project](./code-files/original-software-design)
+    🏗️ <a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a>
 
-**Enhanced Artifact:**  
-[View Enhanced Project](./code-files/software-design)
-    
-**[Read Narrative]./software-design.md
-    
+    <p><strong>Original Artifact:</strong><br>
+    <a href="./code-files/original-software-design">View Original Project</a></p>
+
+    <p><strong>Enhanced Artifact:</strong><br>
+    <a href="./code-files/software-design">View Enhanced Project</a></p>
+
+    <p><strong>Enhancement Narrative:</strong><br>
+    <a href="./software-design.md">Read Narrative</a></p>
+
     <p><strong>Artifact Description:</strong> The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.</p>
+
   </li>
+
+  </ul>
+</div>
 
   <li style="margin-bottom: 8px;">
     🧮 <a href="./algorithms.md">Algorithms and Data Structures (SNHU Travel System)</a>
