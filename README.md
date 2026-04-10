@@ -62,11 +62,6 @@
     allowfullscreen> 
   </iframe> 
 </div>
-<img width="468" height="237" alt="image" src="https://github.com/user-attachments/assets/61adc3fc-0747-4423-b54e-8b945c913815" />
-
-
-
-
 
 
 **This code review includes:**
