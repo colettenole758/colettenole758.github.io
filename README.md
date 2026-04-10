@@ -120,7 +120,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
   </li>
 
   <li style="margin-bottom: 15px;"> 
-🧮 ##Algorithms and Data Structures (SNHU Travel System)
+### 🧮 Algorithms and Data Structures (SNHU Travel System)
 <p><strong>Original Artifact:</strong><br><a href="./code-files/original-algorithms">View Original Project</a></p> 
 <p><strong>Enhanced Artifact:</strong><br><a href="./code-files/algorithms">View Enhanced Project</a></p> 
 <p><strong>Enhancement Narrative:</strong><br><a href="./algorithms.md">Read Narrative</a></p> 
