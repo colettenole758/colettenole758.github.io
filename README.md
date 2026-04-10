@@ -117,7 +117,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 [View Original Project](./original-software-design)
 
 **Enhanced Artifact:**  
-[View Enhanced Project](./software-design)
+[View Enhanced Project](code-files/software-design)
     🏗️ <a href="./software-design.md">Software Design and Engineering (SNHU Travel System)</a>
     <p><strong>Artifact Description:</strong> The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.</p>
   </li>
