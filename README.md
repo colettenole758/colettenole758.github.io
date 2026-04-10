@@ -125,10 +125,10 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 
   <li style="margin-bottom: 15px;"> 
 🧮 Algorithms and Data Structures (SNHU Travel System)
-<p><strong>Original Artifact:</strong><br><a href="./code-files/original-algorithms">View Original Project</a></p> 
-    
-<a href="https://github.com/colettenole758/colettenole758.github.io/tree/main/code-files/algorithms">View Enhanced Project Folder</a></p>
-    
+<p><strong>Original Artifact:</strong><br>
+<a href="https://github.com/colettenole758/colettenole758.github.io/tree/main/code-files/original-algorithms">View Original Project</a></p> 
+<p><strong>Enhanced Artifact:</strong><br>
+<a href="https://github.com/colettenole758/colettenole758.github.io/tree/main/code-files/algorithms">View Enhanced Project</a></p>
 <p><strong>Enhancement Narrative:</strong><br><a href="./algorithms.md">Read Narrative</a></p> 
 <p><strong>Artifact Description:</strong> The artifact used for this enhancement is the SNHU Travel System, a Java-based application originally developed during CS 250. a Java application originally developed for CS 250 in 2024. While Milestone Two focused on the "how" (Software Engineering), Milestone Three focuses on the "what" (Algorithms and Data Structures). The software displays a travel destination list using a custom renderer for icons and text.</p>  
 </li>
