@@ -84,6 +84,7 @@ Bringing a rich foundation of **11 years in software testing and quality assuran
 
 This portfolio highlights my journey through Computer Science and my **CS499 Capstone**.
 
+I am actively seeking opportunities in software engineering, QA automation, or entry-level development roles.
 
 ---
 
@@ -138,6 +139,19 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 
 
 </ul>
+
+### 🔄 Enhancement Summary
+
+**Before Refactoring**
+- Hardcoded data in the user interface  
+- Tightly coupled application logic  
+- Direct SQL queries without abstraction  
+
+**After Refactoring**
+- Implementation of MVC architecture for better structure  
+- Use of dynamic data structures to improve flexibility  
+- Secure database views and improved query design  
+
 
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Key Focus Areas</h3>
