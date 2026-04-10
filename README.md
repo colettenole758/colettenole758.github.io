@@ -161,6 +161,7 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 </ul>
 
 <div style="margin-top: 20px;"> <h3 style="margin-bottom: 10px;">Key Focus Areas</h3> <ul style="margin-left: 20px;"> <li>System architecture</li> <li>Implementation</li> <li>UI/UX considerations</li> <li>Documentation</li> <li>Problem‑solving</li> </ul> </div>
+</div>
 
 <hr>
 
