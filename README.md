@@ -130,7 +130,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 
   <li style="margin-bottom: 15px;"> 
 🛡️ Quantigration Database
-<p><strong>Original Artifact:</strong><br><a href="./code-files/original-database sql">View Original Project</a></p> 
+<p><strong>Original Artifact:</strong><br><a href="./code-files/original-database sql.png">View Original Project</a></p> 
 <p><strong>Enhanced Artifact:</strong><br><a href="./code-files/Enhancements.sql">View Enhanced Project</a></p> 
 <p><strong>Enhancement Narrative:</strong><br><a href="./databases.md">Read Narrative</a></p> 
 <p><strong>Artifact Description:</strong> The artifact selected for this enhancement is the Quantigration database project, originally developed in DAD 220 in December 2023. This database was designed to manage business data related to orders, collaborators, and return merchandise authorizations (RMAs). The system uses relational tables and SQL queries to analyze product returns and identify patterns in customer behavior. While the original project demonstrated foundational SQL skills, it relied on direct queries and lacked structured methods for improving security, abstraction, and maintainability.</p>
