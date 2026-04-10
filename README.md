@@ -106,7 +106,7 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
 - Algorithmic design and data structure optimization  
 - Implementation using modern tools and programming techniques  
 - Security-focused enhancements in application and database design  
-</li>
+  
 <div style="margin-top: 20px;">
   <h2 style="margin-bottom: 10px;">My Capstone Artifacts</h2>
   <ul style="margin-left: 20px;">
