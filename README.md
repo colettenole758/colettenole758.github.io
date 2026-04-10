@@ -1,12 +1,3 @@
-<div>
-<style>
-  .page-header, .site-header, .project-name, .project-tagline { 
-    display: none !important; 
-  }
-</style>
-</div>
-
-
 # 🧠 Professional Self-Assessment  
 [Read my Professional Self-Assessment](./self-assessment.md)
 
