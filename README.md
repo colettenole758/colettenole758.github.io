@@ -1,3 +1,11 @@
+<style>
+  /* This targets the theme's automatic header and hides it */
+  .page-header, .site-header, .project-name {
+    display: none !important;
+  }
+</style>
+
+
 # 🧠 Professional Self-Assessment  
 [Read my Professional Self-Assessment](./self-assessment.md)
 
