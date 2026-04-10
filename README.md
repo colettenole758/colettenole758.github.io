@@ -104,6 +104,7 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 
 ### 🎯 Course Outcomes Demonstrated
 
+
 - Collaborative problem solving and structured development practices  
 - Professional communication through documentation and video walkthrough  
 - Algorithmic design and data structure optimization  
