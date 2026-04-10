@@ -55,12 +55,14 @@
 
 
 # 🎬 Code Review Video 
-<div style="text-align:center; margin-top:20px;">
-  <iframe width="460" height="315"
-    src="https://www.youtube.com/embed/xOX8SAS15zk"
-    frameborder="0"
-    allowfullscreen> 
-  </iframe> 
+<div style="
+  padding: 15px;
+  background: #2d3748; /* Dark sleek border */
+  border-radius: 12px;
+  display: inline-block;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+">
+  <iframe width="460" height="315" src="https://www.youtube.com/embed/xOX8SAS15zk" ...></iframe>
 </div>
 
 
