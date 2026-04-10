@@ -119,10 +119,8 @@ This portfolio highlights my journey through Computer Science and my **CS499 Cap
     <p><strong>Artifact Description:</strong> The artifact I chose for this milestone is the SNHU Travel System, which I first created in my CS 250 class. It’s a Java desktop application that shows a list of top travel destinations along with images and descriptions. When I first made it, all the destination data was hardcoded right in the user interface, which worked fine but made the code a bit messy and hard to change later on.</p>
   </li>
 
-  </li>
-
   <li style="margin-bottom: 15px;"> 
-🧮 **Algorithms and Data Structures (SNHU Travel System)**
+🧮 Algorithms and Data Structures (SNHU Travel System)
 <p><strong>Original Artifact:</strong><br><a href="./code-files/original-algorithms">View Original Project</a></p> 
 <p><strong>Enhanced Artifact:</strong><br><a href="./code-files/algorithms">View Enhanced Project</a></p> 
 <p><strong>Enhancement Narrative:</strong><br><a href="./algorithms.md">Read Narrative</a></p> 
