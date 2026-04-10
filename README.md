@@ -1,5 +1,5 @@
 # 🧠 Professional Self-Assessment  
-[Read my Professional Self-Assessment](./self-assessment.md)
+[Read My Professional Self-Assessment](./self-assessment.md)
 
 ---
 
@@ -116,7 +116,7 @@ I am actively seeking opportunities in software engineering, QA automation, or e
   <ul style="margin-left: 20px;">
 <li style="margin-bottom: 15px;">
   
-🏗️ Software Design and Engineering (SNHU Travel System)
+# 🏗️ Software Design and Engineering (SNHU Travel System)
 <p><strong>Original Artifact:</strong><br>
 <a href="https://github.com/colettenole758/colettenole758.github.io/tree/main/code-files/original-software-design">View Original Project</a></p>
 <p><strong>Enhanced Artifact:</strong><br>
@@ -127,7 +127,8 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 </li>
 
   <li style="margin-bottom: 15px;"> 
-🧮 Algorithms and Data Structures (SNHU Travel System)
+    
+# 🧮 Algorithms and Data Structures (SNHU Travel System)
 <p><strong>Original Artifact:</strong><br>
 <a href="https://github.com/colettenole758/colettenole758.github.io/tree/main/code-files/original-algorithms">View Original Project</a></p> 
 <p><strong>Enhanced Artifact:</strong><br>
@@ -138,7 +139,8 @@ I am actively seeking opportunities in software engineering, QA automation, or e
 
 
 <li style="margin-bottom: 15px;">  
-🛡️ Quantigration Database
+  
+# 🛡️ Quantigration Database
 <p><strong>Original Artifact:</strong><br>
 <a href="./code-files/original-database sql.png">View Original Project</a></p> 
 <p><strong>Enhanced Artifact:</strong><br>
