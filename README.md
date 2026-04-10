@@ -99,11 +99,9 @@ I am actively seeking opportunities in software engineering, QA automation, or e
   <h2 style="margin-bottom: 10px;">Capstone Projects: Enterprise Systems Refactoring</h2>
   <p>A polished, professional, and technically challenging project representing the culmination of my CS studies.</p>
 </div>
-</ul>
 
 
 ### 🎯 Course Outcomes Demonstrated
-
 
 - Collaborative problem solving and structured development practices  
 - Professional communication through documentation and video walkthrough  
