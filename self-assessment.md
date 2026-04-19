@@ -40,6 +40,8 @@ The technical artifacts presented in this ePortfolio; covering Software Design, 
 •	The Quantigration Database refactoring showcases my ability to secure and manage complex data relationships.
 Together, these artifacts inform the portfolio as a whole by demonstrating a full range of talents: from structural architecture and logic optimization to defensive security implementation.
 
+---
+
 
 ## 🚀 Looking Forward
 As I transition fully from a pure quality assurance role into a full-stack software development career, I carry with me a rare combination of skills. I know how to build software, and I know exactly how users and systems break it. I look forward to bringing this balanced, quality-first approach to a forward-thinking software engineering team.
