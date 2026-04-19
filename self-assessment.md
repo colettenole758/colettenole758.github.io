@@ -36,8 +36,11 @@ My 11 years in QA have instilled a natural skepticism toward happy path coding. 
 
 ### Synthesis of Artifacts
 The technical artifacts presented in this ePortfolio; covering Software Design, Algorithms, and Databases; fit together as a cohesive demonstration of my ability to modernize legacy code.
-#	The SNHU Travel System enhancements demonstrate my growth in design patterns and algorithmic efficiency.
-#	The Quantigration Database refactoring showcases my ability to secure and manage complex data relationships.
+
+The SNHU Travel System enhancements demonstrate my growth in design patterns and algorithmic efficiency.
+
+The Quantigration Database refactoring showcases my ability to secure and manage complex data relationships.
+
 Together, these artifacts inform the portfolio as a whole by demonstrating a full range of talents: from structural architecture and logic optimization to defensive security implementation.
 
 ---
