@@ -43,6 +43,7 @@ The Quantigration Database refactoring showcases my ability to secure and manage
 
 Together, these artifacts inform the portfolio as a whole by demonstrating a full range of talents: from structural architecture and logic optimization to defensive security implementation.
 
+
 ---
 
 
